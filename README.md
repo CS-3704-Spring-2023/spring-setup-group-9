@@ -2,8 +2,9 @@
 # STARTER-jpa03
 
 Storybook is here:
-* Production: <https://awhicks.github.io/STARTER-jpa03-docs/>
-* QA:  <https://awhicks.github.io/STARTER-jpa03-docs-qa/>
+* Production: <https://github.com/CS-3704-Spring-2023/spring-setup-group-9-docs>
+* QA:  <https://github.com/CS-3704-Spring-2023/spring-setup-group-9-docs-qa>
+render link: <https://group-9-unique7749.onrender.com>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
